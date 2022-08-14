@@ -1,0 +1,27 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "zenith",
+    "customModelName": "Normal",
+    "name": "Zenith",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TerrariaCombat"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 2.8000000000000003,
+    "enchantability": 2,
+    "damageVsEntity": 45.0,
+    "usageCount": 4062,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

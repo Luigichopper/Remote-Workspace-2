@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "terra_craft:lead_ingot"
+    },
+    "1": {
+      "item": "terra_craft:lead_ingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "terra_craft:lead_shortsword",
+    "count": 1
+  }
+}

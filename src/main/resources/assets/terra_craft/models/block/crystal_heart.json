@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "terra_craft:blocks/crystal_heart",
+    "particle": "terra_craft:blocks/crystal_heart"
+  }
+}

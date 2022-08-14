@@ -1,0 +1,20 @@
+{
+  "entity.terraria.killed": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "terra_craft:fb6d2af852f6fa8e913855eab824e987",
+        "stream": false
+      }
+    ]
+  },
+  "meowmere_projectile": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "terra_craft:bbb239ca4de9bef1975a4506f94c2b96",
+        "stream": false
+      }
+    ]
+  }
+}

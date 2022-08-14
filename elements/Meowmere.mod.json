@@ -1,0 +1,37 @@
+{
+  "_fv": 33,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "meowmere",
+    "customModelName": "Normal",
+    "name": "Meowmere",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TerrariaCombat"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": true,
+    "usageCount": 2031,
+    "actionSound": {
+      "value": "CUSTOM:meowmere_projectile"
+    },
+    "hasGlow": false,
+    "animation": "block",
+    "enableMeleeDamage": true,
+    "damageVsEntity": 25.0,
+    "bulletPower": 2.0,
+    "bulletDamage": 25.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:MewomereProjectile"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

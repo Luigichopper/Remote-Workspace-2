@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "terra_craft:advancement_ore"
+    },
+    "title": {
+      "translate": "advancements.ooo_shiny.title"
+    },
+    "description": {
+      "translate": "advancements.ooo_shiny.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "ooo_shiny": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "terra_craft:timer"
+}
